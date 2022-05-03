@@ -1,1 +1,1 @@
-eAgendaGrafica.WinApp
+e-Agenda com interface gráfica Windows Form
